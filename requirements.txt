@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+transformers
+langchain
+streamlit
+faiss-cpu
+mlflow
+openai
+peft
+shap
