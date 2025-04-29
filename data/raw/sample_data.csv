@@ -1,0 +1,101 @@
+Patient_ID,Age,Visit_Type,Diagnosis,Cost_USD
+P0001,32,Inpatient,Asthma,8983
+P0002,21,Inpatient,Hypertension,1098
+P0003,53,Telehealth,Migraine,5238
+P0004,49,Outpatient,Migraine,1036
+P0005,46,Inpatient,Diabetes,921
+P0006,35,Inpatient,Migraine,9671
+P0007,31,Inpatient,Diabetes,7911
+P0008,87,Inpatient,Hypertension,8338
+P0009,29,Telehealth,Hypertension,8801
+P0010,72,Inpatient,COVID-19,2679
+P0011,22,Telehealth,COVID-19,1031
+P0012,21,Outpatient,Hypertension,8420
+P0013,29,Telehealth,Diabetes,1412
+P0014,45,Inpatient,Hypertension,3144
+P0015,47,Outpatient,Hypertension,1222
+P0016,82,Outpatient,Asthma,9849
+P0017,21,Telehealth,Hypertension,1213
+P0018,89,Outpatient,Migraine,3953
+P0019,43,Telehealth,Diabetes,6715
+P0020,87,Outpatient,Asthma,2064
+P0021,71,Telehealth,COVID-19,9433
+P0022,46,Inpatient,Cardiac Arrest,4133
+P0023,75,Telehealth,Diabetes,9585
+P0024,53,Telehealth,Migraine,9840
+P0025,18,Inpatient,Diabetes,751
+P0026,38,Telehealth,COVID-19,1443
+P0027,72,Telehealth,Migraine,6968
+P0028,61,Outpatient,Migraine,9662
+P0029,53,Telehealth,Cardiac Arrest,9360
+P0030,37,Outpatient,Diabetes,8665
+P0031,45,Inpatient,Cardiac Arrest,5283
+P0032,61,Outpatient,Cardiac Arrest,4372
+P0033,31,Outpatient,Diabetes,3446
+P0034,29,Inpatient,Hypertension,5247
+P0035,66,Outpatient,Hypertension,4010
+P0036,30,Inpatient,COVID-19,4451
+P0037,63,Telehealth,Cardiac Arrest,6584
+P0038,62,Telehealth,Asthma,2244
+P0039,51,Outpatient,Cardiac Arrest,5015
+P0040,23,Telehealth,Cardiac Arrest,7591
+P0041,76,Inpatient,Cardiac Arrest,5280
+P0042,86,Telehealth,COVID-19,1288
+P0043,33,Inpatient,Hypertension,252
+P0044,66,Telehealth,COVID-19,7608
+P0045,28,Outpatient,COVID-19,9324
+P0046,88,Telehealth,COVID-19,1738
+P0047,55,Telehealth,Hypertension,1300
+P0048,64,Telehealth,Hypertension,8908
+P0049,42,Inpatient,Cardiac Arrest,3592
+P0050,26,Inpatient,COVID-19,8388
+P0051,23,Outpatient,Asthma,4445
+P0052,47,Inpatient,Hypertension,2270
+P0053,55,Telehealth,Diabetes,5818
+P0054,28,Telehealth,Diabetes,1227
+P0055,47,Inpatient,Diabetes,4102
+P0056,30,Telehealth,Migraine,6154
+P0057,66,Outpatient,Cardiac Arrest,4769
+P0058,53,Outpatient,Diabetes,2684
+P0059,76,Inpatient,Cardiac Arrest,7279
+P0060,64,Inpatient,Diabetes,9000
+P0061,38,Outpatient,Asthma,5056
+P0062,65,Outpatient,Cardiac Arrest,8766
+P0063,63,Inpatient,Diabetes,228
+P0064,44,Inpatient,Hypertension,9186
+P0065,52,Inpatient,Cardiac Arrest,5005
+P0066,27,Telehealth,Migraine,1797
+P0067,39,Inpatient,Hypertension,2300
+P0068,86,Inpatient,Hypertension,4433
+P0069,49,Telehealth,COVID-19,1991
+P0070,38,Outpatient,Migraine,1853
+P0071,77,Inpatient,Hypertension,9164
+P0072,66,Telehealth,Hypertension,2646
+P0073,52,Inpatient,Diabetes,4562
+P0074,89,Inpatient,Diabetes,4716
+P0075,46,Telehealth,Cardiac Arrest,3550
+P0076,59,Outpatient,Cardiac Arrest,5717
+P0077,25,Telehealth,Cardiac Arrest,3435
+P0078,47,Inpatient,Diabetes,4425
+P0079,22,Outpatient,Cardiac Arrest,8380
+P0080,58,Telehealth,Hypertension,8104
+P0081,69,Telehealth,Diabetes,4214
+P0082,52,Outpatient,Cardiac Arrest,932
+P0083,26,Inpatient,Hypertension,1612
+P0084,45,Telehealth,Cardiac Arrest,7039
+P0085,90,Telehealth,Asthma,4633
+P0086,58,Telehealth,Cardiac Arrest,822
+P0087,45,Inpatient,Asthma,158
+P0088,81,Telehealth,Cardiac Arrest,5564
+P0089,68,Outpatient,COVID-19,2243
+P0090,76,Outpatient,COVID-19,4391
+P0091,36,Telehealth,Migraine,2747
+P0092,51,Telehealth,COVID-19,7339
+P0093,35,Outpatient,COVID-19,9138
+P0094,49,Outpatient,Cardiac Arrest,7107
+P0095,89,Telehealth,Diabetes,9289
+P0096,86,Outpatient,Diabetes,258
+P0097,51,Inpatient,Asthma,1932
+P0098,72,Inpatient,Diabetes,1332
+P0099,69,Inpatient,Hypertension,2542
+P0100,64,Inpatient,Migraine,9038
